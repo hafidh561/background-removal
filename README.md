@@ -1,4 +1,4 @@
-# Inanimate Face Liveness
+# Background Removal
 
 ![example](./blob/example.png "example")
 
